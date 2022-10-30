@@ -1,1 +1,1 @@
-# Codewars_Solutions
+# Codewars_LeetCode_Solutions
